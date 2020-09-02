@@ -644,13 +644,6 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 
 轮播影视,#genre#
 
-周星驰影院,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=1
-古天乐影院,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=1
-吴京作品集,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/150/index.m3u8?&encrypt=1
-刘德华影院,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/150/index.m3u8?&encrypt=1
-新片放映厅,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?&encrypt=1
-经典贺岁片,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/150/index.m3u8?&encrypt=1
-
 洪金宝,http://1009.jilu8.cn/yk.php?id=hjb
 周润发粤语,http://1009.jilu8.cn/yk.php?id=zrf
 周润发,http://1009.jilu8.cn/yk.php?id=zrf2
