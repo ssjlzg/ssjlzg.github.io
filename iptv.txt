@@ -636,12 +636,6 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 留学世界,http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 轮播影视,#genre#
-洪金宝,http://1009.jilu8.cn/yk.php?id=hjb
-周润发粤语,http://1009.jilu8.cn/yk.php?id=zrf
-周润发,http://1009.jilu8.cn/yk.php?id=zrf2
-黎明,http://1009.jilu8.cn/yk.php?id=lm
-郭富城,http://1009.jilu8.cn/yk.php?id=gfc
-张学友,http://1009.jilu8.cn/yk.php?id=zxy
 郑中基,http://1009.jilu8.cn/yk.php?id=zzj
 林志玲,http://1009.jilu8.cn/yk.php?id=lzl
 任达华,http://1009.jilu8.cn/yk.php?id=rdh
@@ -657,11 +651,6 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 成龙电影,http://1009.jilu8.cn/yk.php?id=cl2
 梁家辉,http://1009.jilu8.cn/yk.php?id=ljh
 刘青云,http://1009.jilu8.cn/yk.php?id=lqy
-沈腾,http://1009.jilu8.cn/yk.php?id=st
-古天乐,http://1009.jilu8.cn/yk.php?id=gtl
-文章马伊琍,http://1009.jilu8.cn/yk.php?id=wzmyl
-谢霆锋,http://1009.jilu8.cn/yk.php?id=xtf
-张国荣,http://1009.jilu8.cn/yk.php?id=zgr
 每日科幻电影,http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=1
 CBN影院,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
