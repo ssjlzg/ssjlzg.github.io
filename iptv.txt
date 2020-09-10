@@ -317,23 +317,6 @@ AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 亚洲频道,http://106.54.30.243/gz009/gz.php?id=cinemax
 
 湾湾频道,#genre#
-台视,rtmp://xiaoyu.speedws.com/sat/tv071
-中视,rtmp://xiaoyu.speedws.com/sat/tv091#http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-华视,rtmp://xiaoyu.speedws.com/sat/tv111#http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-民视,rtmp://xiaoyu.speedws.com/sat/tv051
-博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-宝贝亲子,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-神州卫视,http://pull.leshantangjt.com/live/playlist.m3u8
-中天综合,http://192.154.103.75:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天新闻,rtmp://xiaoyu.speedws.com/sat/tv521#http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-中天娱乐,http://192.154.103.75:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-东森电影,http://192.154.103.75:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-东森财经,rtmp://xiaoyu.speedws.com/sat/tv571
-八大综合,http://192.154.103.75:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-龙翔电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8#http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-纬来日本,rtmp://xiaoyu.speedws.com/sat/tv772
-纬来育乐,rtmp://xiaoyu.speedws.com/sat/tv701
 纬来体育,rtmp://xiaoyu.speedws.com/sat/tv721
 动物星球,http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 博斯运动一台,rtmp://xiaoyu.speedws.com/sat/md021
@@ -373,36 +356,6 @@ FOX 体育三台,rtmp://xiaoyu.speedws.com/sat/md031
 韩国 | TBS 韩国频道,http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 韩国 | MBC 韩国频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 新马 | RTM 体育频道,https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2//chunklist_b2064000.m3u8
-韩国 | EBS 第一频道,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-韩国 | EBS 第二频道,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-韩国 | EBS 加一频道,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-韩国 | EBS 加二频道,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-韩国 | EBS E频道,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-韩国 | TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-韩国 | JTBC 体育一台,http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
-越南 | ANTV 综合频道,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-欧美频道,#genre#
-美国 Ⅰ 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-美国 Ⅰ 切达电视,http://live.chdrstatic.com/cbn/primary/3.m3u8
-美国 Ⅰ 彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-美国 Ⅰ BBC 新闻频道,http://51.52.156.22:8888/http/004
-英国 Ⅰ WFC 时尚频道,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
-美国 Ⅰ 航天频道,http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
-法国 Ⅰ 法国新闻,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-法国 Ⅰ 热带音乐,http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
-法国 Ⅰ 巴黎调频,http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-法国 Ⅰ 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-美国 Ⅰ 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-加拿大 Ⅰ CME 财经一号,http://69.57.222.151:8082/45/stream.m3u8
-意大利 Ⅰ RAI 电影,http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
-意大利 Ⅰ RAI 大口,http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8
-意大利 Ⅰ RAI 四台,http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-意大利 Ⅰ RAI 五台,http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8
-意大利 Ⅰ RAI 溢价,http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-p.m3u8
-俄罗斯 Ⅰ 红星电视,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-加拿大 Ⅰ 多伦多16频道,http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-美国 Ⅰ 联合国台,https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-美国 Ⅰ 赛马频道,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 卧底归来,#genre#
 第01集,http://yangguang.piaohua-kuyun.com/20180826/YVkh0CA7/index.m3u8
