@@ -305,17 +305,6 @@ TVB 星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://104.
 卫视国际电影,http://106.54.30.243/gz009/gz.php?id=wsgjdy
 澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
 澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
-TVB J2,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8#http://danielwu.gz01.bdysite.com/iptv/?id=j2
-HBO 亚洲频道,http://106.54.30.243/gz009/gz.php?id=hbo
-HKC 有线娱乐,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
-HKC 有线财经,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-2.m3u8
-HKC 有线18台,rtmp://xiaoyu.speedws.com/sat/hk041
-RHK 港视32台,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-MTV 亚洲音乐,http://106.54.30.243/gz009/gz.php?id=mtv#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
-英皇娱乐,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
-亚洲频道,http://106.54.30.243/gz009/gz.php?id=cinemax
-
 
 
 卧底归来,#genre#
@@ -551,10 +540,6 @@ AXN 影视频道,http://106.54.30.243/gz009/gz.php?id=axn
 
 
 电影欣赏,#genre#
-复仇者联盟,http://vip.okokbo.com/20180316/hH8msi8C/index.m3u8
-复仇者联盟2,http://vip.okokbo.com/20180101/hIhDocuJ/index.m3u8
-复仇者联盟3,http://sohu.com-v-sohu.com/20181001/13166_d59e72d4/index.m3u8
-复仇者联盟4,http://youku.com-qq.net/20190810/16961_b565dcaf/index.m3u8
 速度与激情,http://youku.cdn7-ok.com/20190927/15135_00d8f11d/index.m3u8
 速度与激情2,http://vip.okokbo.com/20180105/wrVYoQvb/index.m3u8
 速度与激情3,http://vip.okokbo.com/20180114/2FYTWr63/index.m3u8
