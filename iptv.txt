@@ -570,7 +570,7 @@ TVB 星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://104.
 速度与激情,http://youku.cdn7-ok.com/20190927/15135_00d8f11d/index.m3u8
 速度与激情2,http://vip.okokbo.com/20180105/wrVYoQvb/index.m3u8
 速度与激情3,http://vip.okokbo.com/20180114/2FYTWr63/index.m3u8
-速度与激情4,http://youku.cdn-2-okzy.com/20170908/7ASneqiW/index.m3u8
+
 速度与激情5,http://sohu.com-v-sohu.com/20181104/14057_a4cd27fe/index.m3u8
 速度与激情6,http://youku.cdn-2-okzy.com/20190303/21819_ba21afc1/index.m3u8
 速度与激情7,http://sina.com-h-sina.com/20180728/1491_c02546bf/index.m3u8
