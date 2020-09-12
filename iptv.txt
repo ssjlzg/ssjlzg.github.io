@@ -352,9 +352,8 @@ TVB 星河频道,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8#http://104.
 第42集,http://yangguang.piaohua-kuyun.com/20180827/9lt4bXKK/index.m3u8
 第43集,http://yangguang.piaohua-kuyun.com/20180827/Yo4YdqQp/index.m3u8
 
-老版《西游记》
 西游记1986版,#genre#
-第01集http://youku.com-youku.net/20180524/5778_de8f56cb/index.m3u8
+第01集http://youku.com-youku.net/20180524/5778_de8f56cb/index.m3u8  
 第02集http://youku.com-youku.net/20180524/5781_03e35256/index.m3u8
 第03集http://youku.com-youku.net/20180524/5782_098891ac/index.m3u8
 第04集http://youku.com-youku.net/20180524/5783_0999bd57/index.m3u8
